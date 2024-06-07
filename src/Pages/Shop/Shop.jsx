@@ -80,7 +80,7 @@ function Shop(props) {
           (async function getUpdatedWishlistAndCart()
           {
             let updatedUserInfo = await axios.get(
-            "https://bookztron-server.vercel.app/api/user",
+           
             {
               headers:
               {
