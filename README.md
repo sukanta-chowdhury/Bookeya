@@ -49,16 +49,4 @@ You may also see any lint errors in the console.
 12. Search bar to search books by Book name and Author name
 13. Pagination 
 
-## You are welcome to contribute to this project 
-1. Create a personal fork of the project on Github.
-2. Clone the fork on your local machine. Your remote repo on Github is called origin.
-3. Add the original repository as a remote called upstream.
-4. If you created your fork a while ago be sure to pull upstream changes into your local repository.
-5. Create a new branch to work on! Branch from development branch.
-6. Implement/fix your feature, comment your code.
-7. Squash your commits into a single commit with git's interactive rebase. Create a new branch if necessary.
-8. Push your branch to your fork on Github, the remote origin.
-9. From your fork open a pull request in the correct branch. Target the project's development branch.
-10. Once the pull request is approved and merged you can pull the changes from upstream to your local repo and delete your extra branch(es).
-11. And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
 
